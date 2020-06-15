@@ -12,5 +12,5 @@ class MunicipalServices:
         pass
 
     @abstractmethod
-    def send_sender(self):
+    def send_sander(self):
         pass
